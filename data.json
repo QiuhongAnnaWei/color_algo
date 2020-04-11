@@ -1,96 +1,902 @@
-[
-    {
+{
+    "-3601288779083173678": {
         "color1": {
             "rgb": [
-                213,
-                69,
-                232
+                190,
+                224,
+                108
             ],
-            "hex": "#d545e8",
+            "hex": "#bee06c",
+            "label": [
+                "green"
+            ]
+        },
+        "color2": {
+            "rgb": [
+                161,
+                233,
+                118
+            ],
+            "hex": "#a1e976",
+            "label": [
+                "green"
+            ]
+        },
+        "color3": {
+            "rgb": [
+                133,
+                241,
+                128
+            ],
+            "hex": "#85f180",
+            "label": [
+                "green"
+            ]
+        },
+        "color4": {
+            "rgb": [
+                139,
+                248,
+                171
+            ],
+            "hex": "#8bf8ab",
+            "label": [
+                "green"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                161,
+                245,
+                213
+            ],
+            "hex": "#a1f5d5",
+            "label": [
+                "green"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                180,
+                243,
+                240
+            ],
+            "hex": "#b4f3f0",
+            "label": [
+                "blue"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                198,
+                229,
+                243
+            ],
+            "hex": "#c6e5f3",
+            "label": [
+                "blue"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                213,
+                225,
+                244
+            ],
+            "hex": "#d5e1f4",
+            "label": [
+                "blue"
+            ]
+        }
+    },
+    "6620435863543770142": {
+        "color1": {
+            "rgb": [
+                231,
+                179,
+                139
+            ],
+            "hex": "#e7b38b",
+            "label": [
+                "orange"
+            ]
+        },
+        "color2": {
+            "rgb": [
+                238,
+                218,
+                149
+            ],
+            "hex": "#eeda95",
+            "label": [
+                "yellow"
+            ]
+        },
+        "color3": {
+            "rgb": [
+                236,
+                245,
+                160
+            ],
+            "hex": "#ecf5a0",
+            "label": [
+                "green"
+            ]
+        },
+        "color4": {
+            "rgb": [
+                216,
+                250,
+                172
+            ],
+            "hex": "#d8faac",
+            "label": [
+                "green"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                205,
+                248,
+                192
+            ],
+            "hex": "#cdf8c0",
+            "label": [
+                "green"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                209,
+                247,
+                213
+            ],
+            "hex": "#d1f7d5",
+            "label": [
+                "green"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                224,
+                248,
+                235
+            ],
+            "hex": "#e0f8eb",
+            "label": [
+                "green"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                234,
+                249,
+                246
+            ],
+            "hex": "#eaf9f6",
+            "label": [
+                "blue"
+            ]
+        }
+    },
+    "1279473810179039519": {
+        "color1": {
+            "rgb": [
+                229,
+                230,
+                128
+            ],
+            "hex": "#e5e680",
+            "label": [
+                "green"
+            ]
+        },
+        "color2": {
+            "rgb": [
+                204,
+                238,
+                138
+            ],
+            "hex": "#ccee8a",
+            "label": [
+                "green"
+            ]
+        },
+        "color3": {
+            "rgb": [
+                180,
+                245,
+                149
+            ],
+            "hex": "#b4f595",
+            "label": [
+                "green"
+            ]
+        },
+        "color4": {
+            "rgb": [
+                160,
+                251,
+                161
+            ],
+            "hex": "#a0fba1",
+            "label": [
+                "green"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                180,
+                248,
+                203
+            ],
+            "hex": "#b4f8cb",
+            "label": [
+                "green"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                198,
+                246,
+                231
+            ],
+            "hex": "#c6f6e7",
+            "label": [
+                "blue"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                214,
+                247,
+                247
+            ],
+            "hex": "#d6f7f7",
+            "label": [
+                "blue"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                229,
+                242,
+                248
+            ],
+            "hex": "#e5f2f8",
+            "label": [
+                "blue"
+            ]
+        }
+    },
+    "8493470757727221399": {
+        "color1": {
+            "rgb": [
+                178,
+                220,
+                125
+            ],
+            "hex": "#b2dc7d",
+            "label": [
+                "green"
+            ]
+        },
+        "color2": {
+            "rgb": [
+                156,
+                230,
+                135
+            ],
+            "hex": "#9ce687",
+            "label": [
+                "green"
+            ]
+        },
+        "color3": {
+            "rgb": [
+                146,
+                238,
+                157
+            ],
+            "hex": "#92ee9d",
+            "label": [
+                "green"
+            ]
+        },
+        "color4": {
+            "rgb": [
+                158,
+                245,
+                197
+            ],
+            "hex": "#9ef5c5",
+            "label": [
+                "green"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                179,
+                243,
+                229
+            ],
+            "hex": "#b3f3e5",
+            "label": [
+                "blue"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                198,
+                238,
+                243
+            ],
+            "hex": "#c6eef3",
+            "label": [
+                "blue"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                215,
+                231,
+                244
+            ],
+            "hex": "#d7e7f4",
+            "label": [
+                "blue"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                230,
+                234,
+                247
+            ],
+            "hex": "#e6eaf7",
+            "label": [
+                "blue"
+            ]
+        }
+    },
+    "-636032002892598052": {
+        "color1": {
+            "rgb": [
+                226,
+                217,
+                114
+            ],
+            "hex": "#e2d972",
+            "label": [
+                "yellow"
+            ]
+        },
+        "color2": {
+            "rgb": [
+                207,
+                235,
+                124
+            ],
+            "hex": "#cfeb7c",
+            "label": [
+                "green"
+            ]
+        },
+        "color3": {
+            "rgb": [
+                179,
+                242,
+                134
+            ],
+            "hex": "#b3f286",
+            "label": [
+                "green"
+            ]
+        },
+        "color4": {
+            "rgb": [
+                154,
+                249,
+                145
+            ],
+            "hex": "#9af991",
+            "label": [
+                "green"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                166,
+                246,
+                186
+            ],
+            "hex": "#a6f6ba",
+            "label": [
+                "green"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                185,
+                244,
+                220
+            ],
+            "hex": "#b9f4dc",
+            "label": [
+                "green"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                202,
+                244,
+                241
+            ],
+            "hex": "#caf4f1",
+            "label": [
+                "blue"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                218,
+                238,
+                245
+            ],
+            "hex": "#daeef5",
+            "label": [
+                "blue"
+            ]
+        }
+    },
+    "977388414273261708": {
+        "color1": {
+            "rgb": [
+                240,
+                152,
+                203
+            ],
+            "hex": "#f098cb",
             "label": [
                 "pink"
             ]
         },
         "color2": {
             "rgb": [
-                211,
-                90,
-                185
+                246,
+                162,
+                182
             ],
-            "hex": "#d35ab9",
+            "hex": "#f6a2b6",
             "label": [
                 "pink"
             ]
         },
         "color3": {
             "rgb": [
-                173,
-                26,
-                93
+                251,
+                179,
+                172
             ],
-            "hex": "#ad1a5d",
-            "label": [
-                "pink"
-            ]
-        },
-        "color4": {
-            "rgb": [
-                92,
-                5,
-                16
-            ],
-            "hex": "#5c0510",
+            "hex": "#fbb3ac",
             "label": [
                 "red"
             ]
         },
-        "id": 7688795620841086241
-    },
-    {
-        "color1": {
+        "color4": {
             "rgb": [
-                220,
-                231,
-                125
+                254,
+                213,
+                183
             ],
-            "hex": "#dce77d",
+            "hex": "#fed5b7",
+            "label": [
+                "orange"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                252,
+                239,
+                200
+            ],
+            "hex": "#fcefc8",
+            "label": [
+                "yellow"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                248,
+                251,
+                216
+            ],
+            "hex": "#f8fbd8",
             "label": [
                 "green"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                242,
+                251,
+                230
+            ],
+            "hex": "#f2fbe6",
+            "label": [
+                "green"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                237,
+                251,
+                233
+            ],
+            "hex": "#edfbe9",
+            "label": [
+                "green"
+            ]
+        }
+    },
+    "1357470800940223404": {
+        "color1": {
+            "rgb": [
+                229,
+                136,
+                143
+            ],
+            "hex": "#e5888f",
+            "label": [
+                "red"
             ]
         },
         "color2": {
             "rgb": [
-                183,
-                216,
-                141
+                237,
+                169,
+                146
             ],
-            "hex": "#b7d88d",
+            "hex": "#eda992",
             "label": [
-                "green"
+                "orange"
             ]
         },
         "color3": {
             "rgb": [
-                83,
-                209,
-                45
+                244,
+                208,
+                157
             ],
-            "hex": "#53d12d",
+            "hex": "#f4d09d",
             "label": [
-                "green"
+                "orange"
             ]
         },
         "color4": {
             "rgb": [
-                15,
-                137,
-                28
+                250,
+                243,
+                169
             ],
-            "hex": "#0f891c",
+            "hex": "#faf3a9",
+            "label": [
+                "yellow"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                232,
+                247,
+                189
+            ],
+            "hex": "#e8f7bd",
             "label": [
                 "green"
             ]
         },
-        "id": -6339800921281876104
+        "color6": {
+            "rgb": [
+                223,
+                247,
+                206
+            ],
+            "hex": "#dff7ce",
+            "label": [
+                "green"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                224,
+                248,
+                222
+            ],
+            "hex": "#e0f8de",
+            "label": [
+                "green"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                234,
+                249,
+                238
+            ],
+            "hex": "#eaf9ee",
+            "label": [
+                "green"
+            ]
+        }
+    },
+    "2915966142114094752": {
+        "color1": {
+            "rgb": [
+                211,
+                127,
+                128
+            ],
+            "hex": "#d37f80",
+            "label": [
+                "red"
+            ]
+        },
+        "color2": {
+            "rgb": [
+                222,
+                165,
+                138
+            ],
+            "hex": "#dea58a",
+            "label": [
+                "orange"
+            ]
+        },
+        "color3": {
+            "rgb": [
+                232,
+                203,
+                150
+            ],
+            "hex": "#e8cb96",
+            "label": [
+                "orange"
+            ]
+        },
+        "color4": {
+            "rgb": [
+                240,
+                239,
+                163
+            ],
+            "hex": "#f0efa3",
+            "label": [
+                "yellow"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                222,
+                239,
+                185
+            ],
+            "hex": "#deefb9",
+            "label": [
+                "green"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                217,
+                241,
+                205
+            ],
+            "hex": "#d9f1cd",
+            "label": [
+                "green"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                222,
+                243,
+                222
+            ],
+            "hex": "#def3de",
+            "label": [
+                "green"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                236,
+                247,
+                240
+            ],
+            "hex": "#ecf7f0",
+            "label": [
+                "green"
+            ]
+        }
+    },
+    "5932754172424213640": {
+        "color1": {
+            "rgb": [
+                193,
+                133,
+                237
+            ],
+            "hex": "#c185ed",
+            "label": [
+                "purple"
+            ]
+        },
+        "color2": {
+            "rgb": [
+                235,
+                143,
+                243
+            ],
+            "hex": "#eb8ff3",
+            "label": [
+                "pink"
+            ]
+        },
+        "color3": {
+            "rgb": [
+                249,
+                154,
+                226
+            ],
+            "hex": "#f99ae2",
+            "label": [
+                "pink"
+            ]
+        },
+        "color4": {
+            "rgb": [
+                254,
+                165,
+                202
+            ],
+            "hex": "#fea5ca",
+            "label": [
+                "pink"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                251,
+                184,
+                190
+            ],
+            "hex": "#fbb8be",
+            "label": [
+                "red"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                249,
+                213,
+                202
+            ],
+            "hex": "#f9d5ca",
+            "label": [
+                "orange"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                249,
+                236,
+                217
+            ],
+            "hex": "#f9ecd9",
+            "label": [
+                "orange"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                250,
+                249,
+                231
+            ],
+            "hex": "#faf9e7",
+            "label": [
+                "yellow"
+            ]
+        }
+    },
+    "178802417800022543": {
+        "color1": {
+            "rgb": [
+                207,
+                74,
+                207
+            ],
+            "hex": "#cf4acf",
+            "label": [
+                "pink"
+            ]
+        },
+        "color2": {
+            "rgb": [
+                219,
+                84,
+                173
+            ],
+            "hex": "#db54ad",
+            "label": [
+                "pink"
+            ]
+        },
+        "color3": {
+            "rgb": [
+                230,
+                94,
+                139
+            ],
+            "hex": "#e65e8b",
+            "label": [
+                "pink"
+            ]
+        },
+        "color4": {
+            "rgb": [
+                240,
+                105,
+                104
+            ],
+            "hex": "#f06968",
+            "label": [
+                "red"
+            ]
+        },
+        "color5": {
+            "rgb": [
+                235,
+                165,
+                129
+            ],
+            "hex": "#eba581",
+            "label": [
+                "orange"
+            ]
+        },
+        "color6": {
+            "rgb": [
+                233,
+                206,
+                152
+            ],
+            "hex": "#e9ce98",
+            "label": [
+                "yellow"
+            ]
+        },
+        "color7": {
+            "rgb": [
+                232,
+                233,
+                171
+            ],
+            "hex": "#e8e9ab",
+            "label": [
+                "green"
+            ]
+        },
+        "color8": {
+            "rgb": [
+                219,
+                234,
+                189
+            ],
+            "hex": "#dbeabd",
+            "label": [
+                "green"
+            ]
+        }
     }
-]
+}
