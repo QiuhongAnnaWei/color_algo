@@ -1,902 +1,312 @@
-{
-    "-3601288779083173678": {
-        "color1": {
-            "rgb": [
-                190,
-                224,
-                108
+[
+    {
+        "colors": {
+            "hex": [
+                "#121336",
+                "#8d8cc9"
             ],
-            "hex": "#bee06c",
-            "label": [
-                "green"
+            "rgb": [
+                "(18, 19, 54)",
+                "(141, 140, 201)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                161,
-                233,
-                118
-            ],
-            "hex": "#a1e976",
-            "label": [
-                "green"
-            ]
+        "title": {
+            "font": "Asap",
+            "type": "sans-serif",
+            "color": 1
         },
-        "color3": {
-            "rgb": [
-                133,
-                241,
-                128
-            ],
-            "hex": "#85f180",
-            "label": [
-                "green"
-            ]
+        "body": {
+            "font": "Rosarivo",
+            "type": "serif",
+            "color": 1
         },
-        "color4": {
-            "rgb": [
-                139,
-                248,
-                171
-            ],
-            "hex": "#8bf8ab",
-            "label": [
-                "green"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                161,
-                245,
-                213
-            ],
-            "hex": "#a1f5d5",
-            "label": [
-                "green"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                180,
-                243,
-                240
-            ],
-            "hex": "#b4f3f0",
-            "label": [
-                "blue"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                198,
-                229,
-                243
-            ],
-            "hex": "#c6e5f3",
-            "label": [
-                "blue"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                213,
-                225,
-                244
-            ],
-            "hex": "#d5e1f4",
-            "label": [
-                "blue"
-            ]
-        }
+        "background": 0
     },
-    "6620435863543770142": {
-        "color1": {
-            "rgb": [
-                231,
-                179,
-                139
+    {
+        "colors": {
+            "hex": [
+                "#192132",
+                "#9da4bc"
             ],
-            "hex": "#e7b38b",
-            "label": [
-                "orange"
+            "rgb": [
+                "(25, 33, 50)",
+                "(157, 164, 188)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                238,
-                218,
-                149
-            ],
-            "hex": "#eeda95",
-            "label": [
-                "yellow"
-            ]
+        "title": {
+            "font": "Lato",
+            "type": "sans-serif",
+            "color": 1
         },
-        "color3": {
-            "rgb": [
-                236,
-                245,
-                160
-            ],
-            "hex": "#ecf5a0",
-            "label": [
-                "green"
-            ]
+        "body": {
+            "font": "Zilla Slab",
+            "type": "serif",
+            "color": 1
         },
-        "color4": {
-            "rgb": [
-                216,
-                250,
-                172
-            ],
-            "hex": "#d8faac",
-            "label": [
-                "green"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                205,
-                248,
-                192
-            ],
-            "hex": "#cdf8c0",
-            "label": [
-                "green"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                209,
-                247,
-                213
-            ],
-            "hex": "#d1f7d5",
-            "label": [
-                "green"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                224,
-                248,
-                235
-            ],
-            "hex": "#e0f8eb",
-            "label": [
-                "green"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                234,
-                249,
-                246
-            ],
-            "hex": "#eaf9f6",
-            "label": [
-                "blue"
-            ]
-        }
+        "background": 0
     },
-    "1279473810179039519": {
-        "color1": {
-            "rgb": [
-                229,
-                230,
-                128
+    {
+        "colors": {
+            "hex": [
+                "#1f2b43",
+                "#a0aac3"
             ],
-            "hex": "#e5e680",
-            "label": [
-                "green"
+            "rgb": [
+                "(31, 43, 67)",
+                "(160, 170, 195)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                204,
-                238,
-                138
-            ],
-            "hex": "#ccee8a",
-            "label": [
-                "green"
-            ]
+        "title": {
+            "font": "Zilla Slab",
+            "type": "serif",
+            "color": 0
         },
-        "color3": {
-            "rgb": [
-                180,
-                245,
-                149
-            ],
-            "hex": "#b4f595",
-            "label": [
-                "green"
-            ]
+        "body": {
+            "font": "Libre Baskerville",
+            "type": "serif",
+            "color": 0
         },
-        "color4": {
-            "rgb": [
-                160,
-                251,
-                161
-            ],
-            "hex": "#a0fba1",
-            "label": [
-                "green"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                180,
-                248,
-                203
-            ],
-            "hex": "#b4f8cb",
-            "label": [
-                "green"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                198,
-                246,
-                231
-            ],
-            "hex": "#c6f6e7",
-            "label": [
-                "blue"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                214,
-                247,
-                247
-            ],
-            "hex": "#d6f7f7",
-            "label": [
-                "blue"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                229,
-                242,
-                248
-            ],
-            "hex": "#e5f2f8",
-            "label": [
-                "blue"
-            ]
-        }
+        "background": 1
     },
-    "8493470757727221399": {
-        "color1": {
-            "rgb": [
-                178,
-                220,
-                125
+    {
+        "colors": {
+            "hex": [
+                "#1c4a58",
+                "#83bfd7"
             ],
-            "hex": "#b2dc7d",
-            "label": [
-                "green"
+            "rgb": [
+                "(28, 74, 88)",
+                "(131, 191, 215)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                156,
-                230,
-                135
-            ],
-            "hex": "#9ce687",
-            "label": [
-                "green"
-            ]
+        "title": {
+            "font": "Markazi Text",
+            "type": "serif",
+            "color": 1
         },
-        "color3": {
-            "rgb": [
-                146,
-                238,
-                157
-            ],
-            "hex": "#92ee9d",
-            "label": [
-                "green"
-            ]
+        "body": {
+            "font": "Montserrat",
+            "type": "sans-serif",
+            "color": 1
         },
-        "color4": {
-            "rgb": [
-                158,
-                245,
-                197
-            ],
-            "hex": "#9ef5c5",
-            "label": [
-                "green"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                179,
-                243,
-                229
-            ],
-            "hex": "#b3f3e5",
-            "label": [
-                "blue"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                198,
-                238,
-                243
-            ],
-            "hex": "#c6eef3",
-            "label": [
-                "blue"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                215,
-                231,
-                244
-            ],
-            "hex": "#d7e7f4",
-            "label": [
-                "blue"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                230,
-                234,
-                247
-            ],
-            "hex": "#e6eaf7",
-            "label": [
-                "blue"
-            ]
-        }
+        "background": 0
     },
-    "-636032002892598052": {
-        "color1": {
-            "rgb": [
-                226,
-                217,
-                114
+    {
+        "colors": {
+            "hex": [
+                "#4a6f7c",
+                "#baccd5"
             ],
-            "hex": "#e2d972",
-            "label": [
-                "yellow"
+            "rgb": [
+                "(74, 111, 124)",
+                "(186, 204, 213)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                207,
-                235,
-                124
-            ],
-            "hex": "#cfeb7c",
-            "label": [
-                "green"
-            ]
+        "title": {
+            "font": "Lato",
+            "type": "sans-serif",
+            "color": 0
         },
-        "color3": {
-            "rgb": [
-                179,
-                242,
-                134
-            ],
-            "hex": "#b3f286",
-            "label": [
-                "green"
-            ]
+        "body": {
+            "font": "Crimson Text",
+            "type": "serif",
+            "color": 0
         },
-        "color4": {
-            "rgb": [
-                154,
-                249,
-                145
-            ],
-            "hex": "#9af991",
-            "label": [
-                "green"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                166,
-                246,
-                186
-            ],
-            "hex": "#a6f6ba",
-            "label": [
-                "green"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                185,
-                244,
-                220
-            ],
-            "hex": "#b9f4dc",
-            "label": [
-                "green"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                202,
-                244,
-                241
-            ],
-            "hex": "#caf4f1",
-            "label": [
-                "blue"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                218,
-                238,
-                245
-            ],
-            "hex": "#daeef5",
-            "label": [
-                "blue"
-            ]
-        }
+        "background": 1
     },
-    "977388414273261708": {
-        "color1": {
-            "rgb": [
-                240,
-                152,
-                203
+    {
+        "colors": {
+            "hex": [
+                "#212338",
+                "#8688b8"
             ],
-            "hex": "#f098cb",
-            "label": [
-                "pink"
+            "rgb": [
+                "(33, 35, 56)",
+                "(134, 136, 184)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                246,
-                162,
-                182
-            ],
-            "hex": "#f6a2b6",
-            "label": [
-                "pink"
-            ]
+        "title": {
+            "font": "Rosarivo",
+            "type": "serif",
+            "color": 0
         },
-        "color3": {
-            "rgb": [
-                251,
-                179,
-                172
-            ],
-            "hex": "#fbb3ac",
-            "label": [
-                "red"
-            ]
+        "body": {
+            "font": "Josefin Sans",
+            "type": "sans-serif",
+            "color": 0
         },
-        "color4": {
-            "rgb": [
-                254,
-                213,
-                183
-            ],
-            "hex": "#fed5b7",
-            "label": [
-                "orange"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                252,
-                239,
-                200
-            ],
-            "hex": "#fcefc8",
-            "label": [
-                "yellow"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                248,
-                251,
-                216
-            ],
-            "hex": "#f8fbd8",
-            "label": [
-                "green"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                242,
-                251,
-                230
-            ],
-            "hex": "#f2fbe6",
-            "label": [
-                "green"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                237,
-                251,
-                233
-            ],
-            "hex": "#edfbe9",
-            "label": [
-                "green"
-            ]
-        }
+        "background": 1
     },
-    "1357470800940223404": {
-        "color1": {
-            "rgb": [
-                229,
-                136,
-                143
+    {
+        "colors": {
+            "hex": [
+                "#379124",
+                "#a9e7a0"
             ],
-            "hex": "#e5888f",
-            "label": [
-                "red"
+            "rgb": [
+                "(55, 145, 36)",
+                "(169, 231, 160)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                237,
-                169,
-                146
-            ],
-            "hex": "#eda992",
-            "label": [
-                "orange"
-            ]
+        "title": {
+            "font": "Work Sans",
+            "type": "sans-serif",
+            "color": 0
         },
-        "color3": {
-            "rgb": [
-                244,
-                208,
-                157
-            ],
-            "hex": "#f4d09d",
-            "label": [
-                "orange"
-            ]
+        "body": {
+            "font": "Mukta Malar",
+            "type": "sans-serif",
+            "color": 0
         },
-        "color4": {
-            "rgb": [
-                250,
-                243,
-                169
-            ],
-            "hex": "#faf3a9",
-            "label": [
-                "yellow"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                232,
-                247,
-                189
-            ],
-            "hex": "#e8f7bd",
-            "label": [
-                "green"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                223,
-                247,
-                206
-            ],
-            "hex": "#dff7ce",
-            "label": [
-                "green"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                224,
-                248,
-                222
-            ],
-            "hex": "#e0f8de",
-            "label": [
-                "green"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                234,
-                249,
-                238
-            ],
-            "hex": "#eaf9ee",
-            "label": [
-                "green"
-            ]
-        }
+        "background": 1
     },
-    "2915966142114094752": {
-        "color1": {
-            "rgb": [
-                211,
-                127,
-                128
+    {
+        "colors": {
+            "hex": [
+                "#824553",
+                "#d5b1b7"
             ],
-            "hex": "#d37f80",
-            "label": [
-                "red"
+            "rgb": [
+                "(130, 69, 83)",
+                "(213, 177, 183)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                222,
-                165,
-                138
-            ],
-            "hex": "#dea58a",
-            "label": [
-                "orange"
-            ]
+        "title": {
+            "font": "Fira Mono",
+            "type": "monospace",
+            "color": 1
         },
-        "color3": {
-            "rgb": [
-                232,
-                203,
-                150
-            ],
-            "hex": "#e8cb96",
-            "label": [
-                "orange"
-            ]
+        "body": {
+            "font": "Source Sans Pro",
+            "type": "sans-serif",
+            "color": 1
         },
-        "color4": {
-            "rgb": [
-                240,
-                239,
-                163
-            ],
-            "hex": "#f0efa3",
-            "label": [
-                "yellow"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                222,
-                239,
-                185
-            ],
-            "hex": "#deefb9",
-            "label": [
-                "green"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                217,
-                241,
-                205
-            ],
-            "hex": "#d9f1cd",
-            "label": [
-                "green"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                222,
-                243,
-                222
-            ],
-            "hex": "#def3de",
-            "label": [
-                "green"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                236,
-                247,
-                240
-            ],
-            "hex": "#ecf7f0",
-            "label": [
-                "green"
-            ]
-        }
+        "background": 0
     },
-    "5932754172424213640": {
-        "color1": {
-            "rgb": [
-                193,
-                133,
-                237
+    {
+        "colors": {
+            "hex": [
+                "#141247",
+                "#958ed4"
             ],
-            "hex": "#c185ed",
-            "label": [
-                "purple"
+            "rgb": [
+                "(20, 18, 71)",
+                "(149, 142, 212)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                235,
-                143,
-                243
-            ],
-            "hex": "#eb8ff3",
-            "label": [
-                "pink"
-            ]
+        "title": {
+            "font": "Sunflower",
+            "type": "sans-serif",
+            "color": 1
         },
-        "color3": {
-            "rgb": [
-                249,
-                154,
-                226
-            ],
-            "hex": "#f99ae2",
-            "label": [
-                "pink"
-            ]
+        "body": {
+            "font": "Noto Sans",
+            "type": "sans-serif",
+            "color": 1
         },
-        "color4": {
-            "rgb": [
-                254,
-                165,
-                202
-            ],
-            "hex": "#fea5ca",
-            "label": [
-                "pink"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                251,
-                184,
-                190
-            ],
-            "hex": "#fbb8be",
-            "label": [
-                "red"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                249,
-                213,
-                202
-            ],
-            "hex": "#f9d5ca",
-            "label": [
-                "orange"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                249,
-                236,
-                217
-            ],
-            "hex": "#f9ecd9",
-            "label": [
-                "orange"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                250,
-                249,
-                231
-            ],
-            "hex": "#faf9e7",
-            "label": [
-                "yellow"
-            ]
-        }
+        "background": 0
     },
-    "178802417800022543": {
-        "color1": {
-            "rgb": [
-                207,
-                74,
-                207
+    {
+        "colors": {
+            "hex": [
+                "#1c1d58",
+                "#8884d7"
             ],
-            "hex": "#cf4acf",
-            "label": [
-                "pink"
+            "rgb": [
+                "(28, 29, 88)",
+                "(136, 132, 215)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
             ]
         },
-        "color2": {
-            "rgb": [
-                219,
-                84,
-                173
-            ],
-            "hex": "#db54ad",
-            "label": [
-                "pink"
-            ]
+        "title": {
+            "font": "Karma",
+            "type": "serif",
+            "color": 1
         },
-        "color3": {
-            "rgb": [
-                230,
-                94,
-                139
-            ],
-            "hex": "#e65e8b",
-            "label": [
-                "pink"
-            ]
+        "body": {
+            "font": "Inconsolata",
+            "type": "monospace",
+            "color": 1
         },
-        "color4": {
-            "rgb": [
-                240,
-                105,
-                104
-            ],
-            "hex": "#f06968",
-            "label": [
-                "red"
-            ]
-        },
-        "color5": {
-            "rgb": [
-                235,
-                165,
-                129
-            ],
-            "hex": "#eba581",
-            "label": [
-                "orange"
-            ]
-        },
-        "color6": {
-            "rgb": [
-                233,
-                206,
-                152
-            ],
-            "hex": "#e9ce98",
-            "label": [
-                "yellow"
-            ]
-        },
-        "color7": {
-            "rgb": [
-                232,
-                233,
-                171
-            ],
-            "hex": "#e8e9ab",
-            "label": [
-                "green"
-            ]
-        },
-        "color8": {
-            "rgb": [
-                219,
-                234,
-                189
-            ],
-            "hex": "#dbeabd",
-            "label": [
-                "green"
-            ]
-        }
+        "background": 0
     }
-}
+]
