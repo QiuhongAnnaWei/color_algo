@@ -2,12 +2,12 @@
     {
         "colors": {
             "hex": [
-                "#121336",
-                "#8d8cc9"
+                "#0e060f",
+                "#b683b6"
             ],
             "rgb": [
-                "(18, 19, 54)",
-                "(141, 140, 201)"
+                "(14, 6, 15)",
+                "(182, 131, 182)"
             ],
             "labels": [
                 "grey",
@@ -19,74 +19,74 @@
             ]
         },
         "title": {
-            "font": "Asap",
-            "type": "sans-serif",
+            "font": "Andada",
+            "type": "serif",
             "color": 1
         },
         "body": {
+            "font": "Neuton",
+            "type": "serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    {
+        "colors": {
+            "hex": [
+                "#204069",
+                "#7d9ac7"
+            ],
+            "rgb": [
+                "(32, 64, 105)",
+                "(125, 154, 199)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
+            ]
+        },
+        "title": {
+            "font": "Andada",
+            "type": "serif",
+            "color": 1
+        },
+        "body": {
+            "font": "Alegreya",
+            "type": "serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    {
+        "colors": {
+            "hex": [
+                "#1d3049",
+                "#7d9acb"
+            ],
+            "rgb": [
+                "(29, 48, 73)",
+                "(125, 154, 203)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
+            ]
+        },
+        "title": {
             "font": "Rosarivo",
-            "type": "serif",
-            "color": 1
-        },
-        "background": 0
-    },
-    {
-        "colors": {
-            "hex": [
-                "#192132",
-                "#9da4bc"
-            ],
-            "rgb": [
-                "(25, 33, 50)",
-                "(157, 164, 188)"
-            ],
-            "labels": [
-                "grey",
-                "grey"
-            ],
-            "fun": [
-                "fog",
-                "fog"
-            ]
-        },
-        "title": {
-            "font": "Lato",
-            "type": "sans-serif",
-            "color": 1
-        },
-        "body": {
-            "font": "Zilla Slab",
-            "type": "serif",
-            "color": 1
-        },
-        "background": 0
-    },
-    {
-        "colors": {
-            "hex": [
-                "#1f2b43",
-                "#a0aac3"
-            ],
-            "rgb": [
-                "(31, 43, 67)",
-                "(160, 170, 195)"
-            ],
-            "labels": [
-                "grey",
-                "grey"
-            ],
-            "fun": [
-                "fog",
-                "fog"
-            ]
-        },
-        "title": {
-            "font": "Zilla Slab",
             "type": "serif",
             "color": 0
         },
         "body": {
-            "font": "Libre Baskerville",
+            "font": "Andada",
             "type": "serif",
             "color": 0
         },
@@ -95,12 +95,12 @@
     {
         "colors": {
             "hex": [
-                "#1c4a58",
-                "#83bfd7"
+                "#1c3f77",
+                "#88a3d5"
             ],
             "rgb": [
-                "(28, 74, 88)",
-                "(131, 191, 215)"
+                "(28, 63, 119)",
+                "(136, 163, 213)"
             ],
             "labels": [
                 "grey",
@@ -112,8 +112,8 @@
             ]
         },
         "title": {
-            "font": "Markazi Text",
-            "type": "serif",
+            "font": "Overpass Mono",
+            "type": "monospace",
             "color": 1
         },
         "body": {
@@ -126,12 +126,12 @@
     {
         "colors": {
             "hex": [
-                "#4a6f7c",
-                "#baccd5"
+                "#110b0f",
+                "#8b7380"
             ],
             "rgb": [
-                "(74, 111, 124)",
-                "(186, 204, 213)"
+                "(17, 11, 15)",
+                "(139, 115, 128)"
             ],
             "labels": [
                 "grey",
@@ -143,43 +143,12 @@
             ]
         },
         "title": {
-            "font": "Lato",
-            "type": "sans-serif",
-            "color": 0
-        },
-        "body": {
-            "font": "Crimson Text",
-            "type": "serif",
-            "color": 0
-        },
-        "background": 1
-    },
-    {
-        "colors": {
-            "hex": [
-                "#212338",
-                "#8688b8"
-            ],
-            "rgb": [
-                "(33, 35, 56)",
-                "(134, 136, 184)"
-            ],
-            "labels": [
-                "grey",
-                "grey"
-            ],
-            "fun": [
-                "fog",
-                "fog"
-            ]
-        },
-        "title": {
-            "font": "Rosarivo",
+            "font": "Neuton",
             "type": "serif",
             "color": 0
         },
         "body": {
-            "font": "Josefin Sans",
+            "font": "Assistant",
             "type": "sans-serif",
             "color": 0
         },
@@ -188,105 +157,12 @@
     {
         "colors": {
             "hex": [
-                "#379124",
-                "#a9e7a0"
+                "#2d9d60",
+                "#9cd6b9"
             ],
             "rgb": [
-                "(55, 145, 36)",
-                "(169, 231, 160)"
-            ],
-            "labels": [
-                "grey",
-                "grey"
-            ],
-            "fun": [
-                "fog",
-                "fog"
-            ]
-        },
-        "title": {
-            "font": "Work Sans",
-            "type": "sans-serif",
-            "color": 0
-        },
-        "body": {
-            "font": "Mukta Malar",
-            "type": "sans-serif",
-            "color": 0
-        },
-        "background": 1
-    },
-    {
-        "colors": {
-            "hex": [
-                "#824553",
-                "#d5b1b7"
-            ],
-            "rgb": [
-                "(130, 69, 83)",
-                "(213, 177, 183)"
-            ],
-            "labels": [
-                "grey",
-                "grey"
-            ],
-            "fun": [
-                "fog",
-                "fog"
-            ]
-        },
-        "title": {
-            "font": "Fira Mono",
-            "type": "monospace",
-            "color": 1
-        },
-        "body": {
-            "font": "Source Sans Pro",
-            "type": "sans-serif",
-            "color": 1
-        },
-        "background": 0
-    },
-    {
-        "colors": {
-            "hex": [
-                "#141247",
-                "#958ed4"
-            ],
-            "rgb": [
-                "(20, 18, 71)",
-                "(149, 142, 212)"
-            ],
-            "labels": [
-                "grey",
-                "grey"
-            ],
-            "fun": [
-                "fog",
-                "fog"
-            ]
-        },
-        "title": {
-            "font": "Sunflower",
-            "type": "sans-serif",
-            "color": 1
-        },
-        "body": {
-            "font": "Noto Sans",
-            "type": "sans-serif",
-            "color": 1
-        },
-        "background": 0
-    },
-    {
-        "colors": {
-            "hex": [
-                "#1c1d58",
-                "#8884d7"
-            ],
-            "rgb": [
-                "(28, 29, 88)",
-                "(136, 132, 215)"
+                "(45, 157, 96)",
+                "(156, 214, 185)"
             ],
             "labels": [
                 "grey",
@@ -303,8 +179,132 @@
             "color": 1
         },
         "body": {
-            "font": "Inconsolata",
-            "type": "monospace",
+            "font": "EB Garamond",
+            "type": "serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    {
+        "colors": {
+            "hex": [
+                "#5b3297",
+                "#c1a6e1"
+            ],
+            "rgb": [
+                "(91, 50, 151)",
+                "(193, 166, 225)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
+            ]
+        },
+        "title": {
+            "font": "Neuton",
+            "type": "serif",
+            "color": 1
+        },
+        "body": {
+            "font": "Zilla Slab",
+            "type": "serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    {
+        "colors": {
+            "hex": [
+                "#142746",
+                "#6f92d5"
+            ],
+            "rgb": [
+                "(20, 39, 70)",
+                "(111, 146, 213)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
+            ]
+        },
+        "title": {
+            "font": "Alegreya Sans",
+            "type": "sans-serif",
+            "color": 1
+        },
+        "body": {
+            "font": "Source Sans Pro",
+            "type": "sans-serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    {
+        "colors": {
+            "hex": [
+                "#183740",
+                "#6da0b2"
+            ],
+            "rgb": [
+                "(24, 55, 64)",
+                "(109, 160, 178)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
+            ]
+        },
+        "title": {
+            "font": "Mukta Malar",
+            "type": "sans-serif",
+            "color": 0
+        },
+        "body": {
+            "font": "Kreon",
+            "type": "serif",
+            "color": 0
+        },
+        "background": 1
+    },
+    {
+        "colors": {
+            "hex": [
+                "#12564e",
+                "#70dfd8"
+            ],
+            "rgb": [
+                "(18, 86, 78)",
+                "(112, 223, 216)"
+            ],
+            "labels": [
+                "grey",
+                "grey"
+            ],
+            "fun": [
+                "fog",
+                "fog"
+            ]
+        },
+        "title": {
+            "font": "Poly",
+            "type": "serif",
+            "color": 1
+        },
+        "body": {
+            "font": "Baskervville",
+            "type": "serif",
             "color": 1
         },
         "background": 0
